@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on as a freelance full stack developer.
+🔭 I’m currently working as a freelance full stack developer.
 
 
 Looking for a challenging job in the backend world.

@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on as a full stack freelance developer.
+
+
 Looking for a challenging job in the backend world.
 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-      <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/commit/e9b8e2e9f9e0856083f92afb6bec8ec3f902bf62#diff-ab850aa1ae0a2acf6e8ef97c0cfdcb648ba52b7614b5c287c9019c2f257f5ed8)" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;

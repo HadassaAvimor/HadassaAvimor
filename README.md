@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working as a freelance full stack developer.
-
-
-Looking for a challenging job in the backend world.
+I'm Hadassa Avimor, 
+<br>
+🔭 Currently I'm working as a freelance full stack developer, and looking for a challenging job in the backend world.
+<br>
+I love writing code, and making the world a better place.
+<br>
+I am open to feedback, and I am always looking for opportunities, to work with new people, and to learn new things.
+<br>
+So if you're looking for a software developer, I'm here for you, I'm always happy to help, and create new things.
 
 
 ### :hammer_and_wrench: Languages and Tools :

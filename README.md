@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm Hadassa Avimor, 
 <br>
-🔭 Currently I'm working as a freelance full stack developer, and looking for a challenging job in the backend world.
+🔭 Currently I'm working as a freelance full stack developer, and looking for a challenging job where I can use my skills to make a positive
+impact on the company.
 <br>
 I love writing code, and making the world a better place.
 <br>

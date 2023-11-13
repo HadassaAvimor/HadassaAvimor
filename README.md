@@ -43,5 +43,8 @@ So if you're looking for a software developer, I'm here for you, I'm always happ
 
 </div>
 <div>
-https://github-readme-stats.vercel.app/api?username=HadassaAvimor&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats
+              <img src="[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github-readme-stats.vercel.app/api?username=HadassaAvimor&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats
+)https://github-readme-stats.vercel.app/api?username=HadassaAvimor&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats
+" />&nbsp;
+
 </div>

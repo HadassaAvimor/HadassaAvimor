@@ -25,6 +25,8 @@ I am open to feedback, and I am always looking for opportunities, to work with n
 <br>
 So if you're looking for a software developer, I'm here for you, I'm always happy to help, and create new things.
 
+<br>
+- 📫 How to reach me: h0533185978@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -39,4 +41,7 @@ So if you're looking for a software developer, I'm here for you, I'm always happ
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
 
+</div>
+<div>
+https://github-readme-stats.vercel.app/api?username=HadassaAvimor&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats
 </div>

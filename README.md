@@ -26,7 +26,7 @@ I am open to feedback, and I am always looking for opportunities, to work with n
 So if you're looking for a software developer, I'm here for you, I'm always happy to help, and create new things.
 
 <br>
-- 📫 How to reach me: h0533185978@gmail.com
+- 📫 How to reach me:<a src="mailto: h0533185978@gmail.com"></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

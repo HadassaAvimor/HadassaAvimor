@@ -27,7 +27,7 @@ So if you're looking for a software developer, I'm here for you, I'm always happ
 
 <br>
 - 📫 How to reach me:
-<a href="mailto:h0533185978@gmail.com?">h0533185978@gmail.com</a>
+<a href="mailto:h0533185978@gmail.com">h0533185978@gmail.com</a>
 
 
 

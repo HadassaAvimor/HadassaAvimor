@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm Hadassa Avimor, 
 <br>
-🔭 Currently I'm working as a freelance full stack developer, and looking for a challenging job where I can use my skills to make a positive
-impact on the company.
+🔭 Currently I work as a Python developer, focusing on crafting efficient solutions and optimizing code for various projects.
+
 <br>
 I love writing code, and making the world a better place.
 <br>

@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I'm Hadassa Avimor, 
 <br>
 🔭 Currently I work as a Python developer, focusing on crafting efficient solutions and optimizing code for various projects.
-
 <br>
 I love writing code, and making the world a better place.
 <br>
